@@ -1,0 +1,13 @@
+npm create vite@latest name-project
+- React
+- javascript
+
+==========
+* Commands
+==========
+- npm install
+- npm run dev
+
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
