@@ -18,3 +18,5 @@ npm i react-router-dom
 npm i json-server
 
 npm i react-spinners
+
+npm run server
